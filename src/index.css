@@ -37,8 +37,8 @@
   color: #7e7e7e;
 }
 
-.grey-color span:hover{
-  cursor: pointer;
+.trans-button:hover{
+  cursor:pointer;
 }
 
 .banner {
